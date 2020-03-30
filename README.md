@@ -1,4 +1,4 @@
 # Portfolio-Website
 Portfolio website made using html, css and js
 
-!screenshot/home1.png
+![alt text](https://github.com/dipstech11/Portfolio-Website/blob/master/screenshot/home1.png)
